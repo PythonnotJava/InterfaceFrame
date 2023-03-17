@@ -1,7 +1,7 @@
 # InterfaceFrame
 A UI interface that uses PyQt5 can be used as an interactive container for any software
 
-# Download Link : [click me!](https://github.com/PythonnotJava/InterfaceFrame/releases/new)
+# Download Link : [click me!](https://github.com/PythonnotJava/InterfaceFrame/releases/tag/Release)
 
 # Now,please look at the interface display as below.
 * You can easily define themes
